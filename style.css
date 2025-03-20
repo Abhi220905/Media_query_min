@@ -109,7 +109,8 @@
 
   .testimonial {
     padding-top: 100px;  
-    min-height: 600px; 
+    min-height: 300px; 
+    min-width: 400px;
     padding: 20px;
     background-color: #4800ff; 
   }
@@ -176,8 +177,8 @@
 footer{ 
     text-align: center; 
     background-color: #ff3c00;
-    min-width: auto;
-    height: 100px;
+    height: 100px; 
+    min-width: 400px;
 }
 
 footer p{ 
@@ -195,5 +196,4 @@ footer p{
   .fa-bars{
     display: none;
   }
-  
-}
+} 
